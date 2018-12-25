@@ -1,0 +1,25 @@
+{
+	"name": "babel-meta",
+	"version": "7.0.0",
+	"description": "Metapackage to install a full babel toolchain",
+	"scripts": {},
+	"dependencies": {
+		"@babel/cli": "^7",
+		"@babel/core": "^7",
+		"@babel/node": "^7",
+		"@babel/register": "^7"
+	},
+	"devDependencies": {},
+	"author": "peoro",
+	"license": "MIT",
+	"keywords": [
+		"babel",
+		"meta",
+		"tools",
+		"all",
+		"metapackage"
+	],
+	"homepage": "https://github.com/peoro/babel-meta#readme",
+	"bugs": "https://github.com/peoro/babel-meta/issues",
+	"repository": "github:peoro/babel-meta"
+}
